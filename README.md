@@ -209,7 +209,7 @@ For SEO masters, maybe those amount of website traffic is too ordinary. However,
 [Other](https://ahrefs.com/blog/seo-blogs/)
 > Collected by ahrefs.
 
-[CoreyFox - AEO Optimization Guide](https://coreyfox.com/aeo-optimization/)
+[Corey Fox - AEO Optimization Guide](https://coreyfox.com/aeo-optimization/)
 > Complete guide to ranking in ChatGPT, Perplexity, and Claude
 
 ## Community
