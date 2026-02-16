@@ -209,6 +209,9 @@ For SEO masters, maybe those amount of website traffic is too ordinary. However,
 [Other](https://ahrefs.com/blog/seo-blogs/)
 > Collected by ahrefs.
 
+[Corey Fox](https://coreyfox.com/topics/ai/aeo-optimization/)
+> The author is an AI-Powered SEO Specialist.
+
 ## Community
 
 [Reddit SEO](https://www.reddit.com/r/SEO/hot/)
